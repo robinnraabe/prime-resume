@@ -1,0 +1,36 @@
+body {
+  background-color: #f4a500;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  font-family: serif;
+}
+
+
+.danger {
+  background-color: black;
+  border: 5px solid white;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+h6 {
+  color: white;
+  padding-left: 20px;
+}
+
+.maintext {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.speed {
+  padding-left: 80px;
+  
+}
+.credit {
+  background-color: black;
+}
